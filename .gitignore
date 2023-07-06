@@ -26,6 +26,3 @@ yarn-error.log*
 
 #stripe
 /.stripe
-
-#divjoy
-divjoy-project.json
